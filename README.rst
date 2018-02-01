@@ -1,5 +1,5 @@
-Visual identiry of Robot Framework
-==================================
+Robot Framework visual identity
+===============================
 
 This repository contains guidelines and assets related to Robot
 Framework's new visual identity. The new identity was already used at
@@ -7,8 +7,8 @@ Framework's new visual identity. The new identity was already used at
 at http://robotframework.org soon. `Robot Framework shop
 <http://shop.robotframework.org>`_ also has gear using the new design.
 
-|rf| logo
----------
+Logo
+----
 
 Robot Framework logo is available in various formats:
 
@@ -17,16 +17,11 @@ Robot Framework logo is available in various formats:
 - `PDF with CMYK <logo/robot-framework-cmyk.pdf>`_ for print
 - `PDF with RGB <logo/robot-framework-rgb.pdf>`_ for digital display
 
-.. |rf| image:: logo/robot-framework.png
-   :height: 42
-   :width: 42
-   :align: bottom
-
 Brand guidelines
 ----------------
 
-`Brand guidelines <robot-framework-brand-guidelines.pdf>`_ document
-contains the brand and graphic principles of Robot Framework. The
+`Robot Framework brand guidelines <robot-framework-brand-guidelines.pdf>`_
+documents the brand and graphic principles of Robot Framework. The
 document covers what colors and fonts to use, how to use the logo, and
 so on. Use it as a reference to ensure that the identity remains clear
 and consistent regardless of the media.
