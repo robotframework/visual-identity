@@ -26,6 +26,14 @@ document covers what colors and fonts to use, how to use the logo, and
 so on. Use it as a reference to ensure that the identity remains clear
 and consistent regardless of the media.
 
+Applications
+------------
+
+Various applications of the visual identity can be found in the
+`applications <applications>`_ folder. These applications feature
+things such as print-ready originals for `posters <applications/posters>`_
+and `stickers <applications/stickers>`_.
+
 Color palette
 -------------
 
