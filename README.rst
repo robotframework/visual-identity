@@ -46,3 +46,6 @@ Credits
 
 Robot Framework's visual identity has been designed by `Anssi Arte
 <http://www.chiefgarage.com>`_.
+
+Robot Framework two-sided flyer has been designed by `Tanja Pelkonen
+<http://tanjapelkonen.com/>`_.
