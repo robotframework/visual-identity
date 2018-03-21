@@ -2,10 +2,12 @@ Robot Framework visual identity
 ===============================
 
 This repository contains guidelines and assets related to Robot
-Framework's new visual identity. The new identity was already used at
-`RoboCon 2018 <http://robocon.io>`_ and it will also be taken into use
-at http://robotframework.org soon. `Robot Framework shop
-<http://shop.robotframework.org>`_ also has gear using the new design.
+Framework's visual identity used, for example, at
+http://robotframework.org. `Robot Framework shop
+<http://shop.robotframework.org>`_ also has gear using this design.
+
+.. contents::
+   :local:
 
 Logo
 ----
@@ -40,6 +42,16 @@ Color palette
 The `color palette <color/robot-framework-color-palette.ase>`_
 contains colors documented in the brand guidelines in Adobe's ASE
 format.
+
+Copyrights and license
+----------------------
+
+Copyright holder for all this content is `Robot Framework Foundation
+<http://robotframework.org/foundation/>`_.
+
+Robot Framework logo is licensed under a `Creative Commons
+Attribution-ShareAlike 4.0 International License
+<https://creativecommons.org/licenses/by-sa/4.0/>`_ (CC BY-SA 4.0).
 
 Credits
 -------
