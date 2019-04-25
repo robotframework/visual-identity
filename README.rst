@@ -18,6 +18,7 @@ Robot Framework logo is available in various formats:
 - `White PNG <logo/robot-framework-white.png>`_ also for web
 - `PDF with CMYK <logo/robot-framework-cmyk.pdf>`_ for print
 - `PDF with RGB <logo/robot-framework-rgb.pdf>`_ for digital display
+- `SVG <logo/robot-framework.svg>`_
 
 Brand guidelines
 ----------------
