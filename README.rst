@@ -44,8 +44,10 @@ The `color palette <color/robot-framework-color-palette.ase>`_
 contains colors documented in the brand guidelines in Adobe's ASE
 format.
 
-Copyrights and license
+Trademark, Copyrights and license
 ----------------------
+
+Robot Framework is a registered trademark in the European Union and the United States.
 
 Copyright holder for all this content is `Robot Framework Foundation
 <http://robotframework.org/foundation/>`_.
