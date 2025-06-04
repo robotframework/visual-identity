@@ -1,0 +1,53 @@
+Robot Framework Visual Identity License
+Version 2.0 – 4 June 2025
+
+Copyright © Robot Framework ry (Robot Framework Foundation). All rights reserved.
+
+1. Definitions
+   “Licensed Materials” means the Robot Framework name, trademarks, word marks, logotypes, icons, colour palettes, slide templates, and any other brand or visual identity assets that are made available in the repository located at [https://github.com/robotframework/visual-identity](https://github.com/robotframework/visual-identity) (or its successor).
+   “Robot Framework” means the open‑source test‑automation project whose governing body is the Robot Framework ry (Robot Framework Foundation) (RFF).
+   “You” and “Your” means any individual or legal entity exercising the rights granted below.
+
+2. Grant of licence
+   Subject to the terms of this Licence, RFF hereby grants You a worldwide, royalty‑free, non‑exclusive, non‑transferable, revocable licence to reproduce and display the Licensed Materials solely for the following Permitted Uses:
+   (a) to link to, refer to, or otherwise fairly describe Robot Framework in any medium;
+   (b) to create presentations, blog posts, documentation, or other content whose primary purpose is to educate about, advocate for, or otherwise support Robot Framework;
+   (c) to print the Licensed Materials on t‑shirts, stickers, or other swag that is distributed for free (not sold) within the Robot Framework community; and
+   (d) any other use that has been expressly authorised in writing by RFF.
+
+3. Conditions
+   3.1. Integrity. The Licensed Materials must be used in un‑altered form. Purely technical resizing is permitted, provided the aspect ratio is preserved and all elements remain clearly legible.
+   3.2. Attribution. Where practicable, You must include the following notice (or a local‑language equivalent) in a manner appropriate to the medium:
+   “Robot Framework® and its visual identity are registered trademarks of the Robot Framework ry (Robot Framework Foundation), used with permission.”
+   3.3. Non‑endorsement. You must not use the Licensed Materials in any manner that suggests Robot Framework or RFF is the source of, author of, or otherwise endorses Your product or service.
+   3.4. No confusing similarity. You must not integrate the Licensed Materials, or any confusingly similar marks, into the name, logo, or branding of Your own software, company, product, domain name, or other offering.
+   3.5. Relating to Robot Framework. The Licensed Materials must not be used in contexts unrelated to Robot Framework.
+
+4. Prohibited uses
+   Except to the extent expressly permitted in Section 2, You must not:
+   (a) modify, recolour, distort, or create derivative works of the Licensed Materials;
+   (b) sell, license, or otherwise commercialise products or services that prominently feature the Licensed Materials;
+   (c) combine the Licensed Materials with any other trade mark so as to create a composite mark;
+   (d) use the Licensed Materials in connection with unlawful, deceptive, or defamatory content; or
+   (e) register or attempt to register any trade mark, domain name, social‑media handle, or company name containing “Robot Framework” or any confusingly similar term.
+
+5. Permission for additional uses
+   If You wish to make any use of the Licensed Materials not permitted by this Licence, You must obtain prior written consent from RFF by contacting:
+   [executive.director@robotframework.org](mailto:executive.director@robotframework.org)
+
+6. Revocation and termination
+   RFF may revoke this Licence (in whole or in part) at any time upon written notice if RFF determines, in its sole discretion, that Your use violates this Licence or could harm the reputation or goodwill of Robot Framework. Upon termination or revocation, You must promptly discontinue all use of the Licensed Materials and, where feasible, remove them from any materials under Your control.
+
+7. Trademark ownership
+   Robot Framework® is a registered trade mark of RFF. Nothing in this Licence transfers any ownership of, or rights in, the Licensed Materials or any associated goodwill. All rights not expressly granted are reserved.
+
+8. Disclaimer of warranties
+   THE LICENSED MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+9. Limitation of liability
+   IN NO EVENT SHALL RFF BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE LICENSED MATERIALS OR THIS LICENCE.
+
+10. Governing law and venue
+    This Licence is governed by, and construed in accordance with, the laws of Finland, without regard to its conflict‑of‑law rules. Any dispute arising out of or relating to this Licence shall be subject to the exclusive jurisdiction of the courts located in Helsinki, Finland.
+
+— End of Licence —
